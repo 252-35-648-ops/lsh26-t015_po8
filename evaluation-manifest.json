@@ -5,7 +5,7 @@
   "live_url": "LIVE_URL_PLACEHOLDER",
   "demo_video_url_optional": "",
   "event_start_code": "LSH26-8490-C900",
-  "repository_created_before_release": true,
+  "repository_created_before_release": false,
   "pre_event_materials": [],
   "sample_data": {
     "loads_published_fixture": true,
